@@ -36,14 +36,23 @@ Abhin R
 
 ### Circuit Diagram
 
-![Circuit Diagram](circuit%20diagram.jpeg)
+![Circuit Diagram](Images/circuit%20diagram.jpeg)
 
 ### Project Overview
 
-![Project Overview 1](project%20overall1.jpeg)
+![Project Overview 1](Images/project%20overall1.jpeg)
 
-![Project Overview 2](project%20overall2.jpeg)
+![Project Overview 2](Images/project%20overall2.jpeg)
 
 ### Circuit Implementation
 
-![Circuit Implementation](circuit%20implementation.jpeg)
+![Circuit Implementation](Images/circuit%20implementation.jpeg)
+
+## Installation
+1. Open the code in Arduino IDE.
+2. Install the required ESP32 board package.
+3. Upload the code to the ESP32.
+4. Connect the hardware as shown in the circuit diagram.
+
+## License
+MIT
