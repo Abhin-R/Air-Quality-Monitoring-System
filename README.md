@@ -32,3 +32,18 @@ This project is an ESP32-based Air Quality Monitoring System that monitors air q
 
 ## Author
 Abhin R
+## Project Images
+
+### Circuit Diagram
+
+![Circuit Diagram](circuit%20diagram.jpeg)
+
+### Project Overview
+
+![Project Overview 1](project%20overall1.jpeg)
+
+![Project Overview 2](project%20overall2.jpeg)
+
+### Circuit Implementation
+
+![Circuit Implementation](circuit%20implementation.jpeg)
