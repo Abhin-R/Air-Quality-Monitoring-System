@@ -22,7 +22,7 @@ This project is an ESP32-based Air Quality Monitoring System that monitors air q
 
 ## Software Used
 - Arduino IDE
-- C
+- C++
 
 ## Future Improvements
 - Wi-Fi monitoring
